@@ -3,6 +3,30 @@
         {
             "name": "Wired",
             "url": "https://www.wired.com/feed/rss"
+        },
+        {
+            "name": "TechCrunch",
+            "url": "https://feeds.feedburner.com/TechCrunch/"
+        },
+        {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/rss/index.xml"
+        },
+        {
+            "name": "Ars Technica",
+            "url": "https://feeds.arstechnica.com/arstechnica/index/"
+        },
+        {
+            "name": "Mashable",
+            "url": "http://feeds.mashable.com/Mashable"
+        },
+        {
+            "name": "Engadget",
+            "url": "https://www.engadget.com/rss.xml"
+        },
+        {
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com/feed"
         }
     ],
     "entertainment": [
@@ -13,6 +37,20 @@
         {
             "name": "Rolling Stone",
             "url": "https://www.rollingstone.com/music/music-news/feed/"
+        },
+        {
+            "name": "BillBoard",
+            "url": "https://www.billboard.com/feed/"
+        },
+        {
+            "name": "Deadline",
+            "url": "https://deadline.com/feed/"
+        }
+    ],
+    "science": [
+        {
+            "name": "Science",
+            "url": "https://feeds.science.org/rss/science.xml"
         }
     ],
     "environment": [
@@ -39,6 +77,10 @@
         {
             "name": "Mathrubhumi News",
             "url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss"
+        },
+        {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/rss"
         }
     ]
 }

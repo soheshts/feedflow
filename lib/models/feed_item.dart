@@ -55,16 +55,38 @@ class FeedItem {
 class FeedSource {
   final String name;
   final String url;
+  final String category;
 
   FeedSource({
     required this.name,
     required this.url,
+    required this.category,
   });
 
-  factory FeedSource.fromJson(Map<String, dynamic> json) {
+  factory FeedSource.fromJson(Map<String, dynamic> json, String category) {
     return FeedSource(
       name: json['name'] as String,
       url: json['url'] as String,
+      category: category,
     );
   }
+
+  Map<String, dynamic> toJson() {
+    return {
+      'name': name,
+      'url': url,
+      'category': category,
+    };
+  }
+
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      other is FeedSource &&
+          runtimeType == other.runtimeType &&
+          name == other.name &&
+          url == other.url;
+
+  @override
+  int get hashCode => name.hashCode ^ url.hashCode;
 }

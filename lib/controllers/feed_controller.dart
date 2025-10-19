@@ -9,12 +9,13 @@ class FeedController extends GetxController {
   // Observable state
   final RxList<FeedItem> feedItems = <FeedItem>[].obs;
   final RxList<FeedItem> allFeedItems = <FeedItem>[].obs;
-  final RxList<FeedSource> feedSources = <FeedSource>[].obs;
+  final RxList<FeedSource> userFeedSources = <FeedSource>[].obs;
   final RxBool isLoading = false.obs;
   final RxBool isRefreshing = false.obs;
   final RxString errorMessage = ''.obs;
   final RxInt currentIndex = 0.obs;
   final Rxn<String> selectedSource = Rxn<String>(null); // null means "All"
+  final Rxn<String> selectedCategory = Rxn<String>(null); // null means "All"
 
   @override
   void onInit() {
@@ -28,13 +29,13 @@ class FeedController extends GetxController {
       isLoading.value = true;
       errorMessage.value = '';
       
-      // Load feed sources first
-      feedSources.value = await _feedService.loadFeedSources();
+      // Load user's feed sources
+      userFeedSources.value = await _feedService.loadUserFeedSources();
       
       final items = await _feedService.fetchAllFeeds();
       
       if (items.isEmpty) {
-        errorMessage.value = 'No articles found. Please check your feed sources.';
+        errorMessage.value = 'No articles found. Please add some feed sources.';
       } else {
         allFeedItems.value = items;
         _applyFilter();
@@ -53,11 +54,11 @@ class FeedController extends GetxController {
       isRefreshing.value = true;
       errorMessage.value = '';
       
-      feedSources.value = await _feedService.loadFeedSources();
+      userFeedSources.value = await _feedService.loadUserFeedSources();
       final items = await _feedService.fetchAllFeeds();
       
       if (items.isEmpty) {
-        errorMessage.value = 'No articles found. Please check your feed sources.';
+        errorMessage.value = 'No articles found. Please add some feed sources.';
       } else {
         allFeedItems.value = items;
         _applyFilter();
@@ -86,20 +87,62 @@ class FeedController extends GetxController {
   /// Filter feeds by source
   void filterBySource(String? sourceName) {
     selectedSource.value = sourceName;
+    selectedCategory.value = null;
+    currentIndex.value = 0;
+    _applyFilter();
+  }
+
+  /// Filter feeds by category
+  void filterByCategory(String? category) {
+    selectedCategory.value = category;
+    selectedSource.value = null;
     currentIndex.value = 0;
     _applyFilter();
   }
 
   /// Apply current filter
   void _applyFilter() {
-    if (selectedSource.value == null) {
-      // Show all feeds
-      feedItems.value = allFeedItems;
-    } else {
+    if (selectedSource.value != null) {
       // Filter by selected source
       feedItems.value = allFeedItems
           .where((item) => item.sourceName == selectedSource.value)
           .toList();
+    } else if (selectedCategory.value != null) {
+      // Filter by selected category
+      final categorySourceNames = userFeedSources
+          .where((source) => source.category == selectedCategory.value)
+          .map((source) => source.name)
+          .toSet();
+      feedItems.value = allFeedItems
+          .where((item) => categorySourceNames.contains(item.sourceName))
+          .toList();
+    } else {
+      // Show all feeds
+      feedItems.value = allFeedItems;
+    }
+  }
+
+  /// Remove a feed source
+  Future<void> removeFeedSource(FeedSource source) async {
+    try {
+      await _feedService.removeFeedSource(source);
+      userFeedSources.remove(source);
+      
+      // Reload feeds after removal
+      await loadFeeds();
+      
+      Get.snackbar(
+        'Removed',
+        '${source.name} removed from your feeds',
+        snackPosition: SnackPosition.BOTTOM,
+        duration: const Duration(seconds: 2),
+      );
+    } catch (e) {
+      Get.snackbar(
+        'Error',
+        'Failed to remove feed source',
+        snackPosition: SnackPosition.BOTTOM,
+      );
     }
   }
 

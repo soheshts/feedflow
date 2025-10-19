@@ -30,7 +30,10 @@ dependencies:
   intl: ^0.18.1
   
   # Fonts with multilingual support
-  google_fonts: ^6.3.2
+  google_fonts: ^6.1.0
+  
+  # Local Storage
+  shared_preferences: ^2.2.2
 
 dev_dependencies:
   flutter_test:

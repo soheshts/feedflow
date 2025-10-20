@@ -2076,5 +2076,31 @@
             "name": "www.espn.com - TOP",
             "url": "https://www.espn.com/espn/rss/news"
         }
+    ],
+    "travel": [
+        {
+            "name": "Atlas Obscura - Latest Articles and Places",
+            "url": "https://www.atlasobscura.com/feeds/latest"
+        },
+        {
+            "name": "Live Life Travel",
+            "url": "https://www.livelifetravel.world/feed/"
+        },
+        {
+            "name": "Lonely Planet Travel News",
+            "url": "https://www.lonelyplanet.com/news/feed/atom/"
+        },
+        {
+            "name": "NYT > Travel",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml"
+        },
+        {
+            "name": "Nomadic Matt's Travel Site",
+            "url": "https://www.nomadicmatt.com/travel-blog/feed/"
+        },
+        {
+            "name": "Travel | The Guardian",
+            "url": "https://www.theguardian.com/uk/travel/rss"
+        }
     ]
 }

@@ -193,8 +193,100 @@
     ],
     "science": [
         {
-            "name": "Science",
-            "url": "https://feeds.science.org/rss/science.xml"
+            "name": "60-Second Science",
+            "url": "http://rss.sciam.com/sciam/60secsciencepodcast"
+        },
+        {
+            "name": "BBC News - Science & Environment",
+            "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        {
+            "name": "Discovery",
+            "url": "https://podcasts.files.bbci.co.uk/p002w557.rss"
+        },
+        {
+            "name": "FlowingData",
+            "url": "https://flowingdata.com/feed"
+        },
+        {
+            "name": "Gastropod",
+            "url": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss"
+        },
+        {
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com/tag/science/rss"
+        },
+        {
+            "name": "Hidden Brain",
+            "url": "https://feeds.npr.org/510308/podcast.xml"
+        },
+        {
+            "name": "Invisibilia",
+            "url": "https://feeds.npr.org/510307/podcast.xml"
+        },
+        {
+            "name": "Latest Science News -- ScienceDaily",
+            "url": "https://www.sciencedaily.com/rss/all.xml"
+        },
+        {
+            "name": "NYT > Science",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+        },
+        {
+            "name": "Nature",
+            "url": "https://www.nature.com/nature.rss"
+        },
+        {
+            "name": "Phys.org - latest science and technology news stories",
+            "url": "https://phys.org/rss-feed/"
+        },
+        {
+            "name": "Probably Science",
+            "url": "https://probablyscience.libsyn.com/rss"
+        },
+        {
+            "name": "Radiolab",
+            "url": "http://feeds.wnyc.org/radiolab"
+        },
+        {
+            "name": "Reddit Science",
+            "url": "https://reddit.com/r/science/.rss"
+        },
+        {
+            "name": "Sawbones: A Marital Tour of Misguided Medicine",
+            "url": "https://feeds.simplecast.com/y1LF_sn2"
+        },
+        {
+            "name": "Science Latest",
+            "url": "https://www.wired.com/feed/category/science/latest/rss"
+        },
+        {
+            "name": "Science Vs",
+            "url": "http://feeds.gimletmedia.com/ScienceVs"
+        },
+        {
+            "name": "Science-Based Medicine",
+            "url": "https://sciencebasedmedicine.org/feed/"
+        },
+        {
+            "name": "Scientific American Content: Global",
+            "url": "http://rss.sciam.com/ScientificAmerican-Global"
+        },
+        {
+            "name": "Shirtloads of Science",
+            "url": "https://shirtloadsofscience.libsyn.com/rss"
+        },
+        {
+            "name": "TED Talks Daily (SD video)",
+            "url": "https://pa.tedcdn.com/feeds/talks.rss"
+        },
+        {
+            "name": "The Infinite Monkey Cage",
+            "url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss"
+        },
+        {
+            "name": "This Week in Science – The Kickass Science Podcast",
+            "url": "http://www.twis.org/feed/"
         }
     ],
     "environment": [
@@ -1927,6 +2019,36 @@
         {
             "name": "Håvard Brynjulfsen",
             "url": "https://www.havardbrynjulfsen.design/feed.xml"
+        }
+    ],
+    "space": [
+        {
+            "name": "/r/space: news, articles and discussion",
+            "url": "https://www.reddit.com/r/space/.rss?format=xml"
+        },
+        {
+            "name": "NASA Breaking News",
+            "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+        },
+        {
+            "name": "New Scientist - Space",
+            "url": "https://www.newscientist.com/subject/space/feed/"
+        },
+        {
+            "name": "Sky & Telescope",
+            "url": "https://www.skyandtelescope.com/feed/"
+        },
+        {
+            "name": "Space | The Guardian",
+            "url": "https://www.theguardian.com/science/space/rss"
+        },
+        {
+            "name": "Space.com",
+            "url": "https://www.space.com/feeds/all"
+        },
+        {
+            "name": "SpaceX",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel"
         }
     ]
 }

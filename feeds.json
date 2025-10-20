@@ -289,22 +289,6 @@
             "url": "http://www.twis.org/feed/"
         }
     ],
-    "environment": [
-        {
-            "name": "National Geographic",
-            "url": "https://www.nationalgeographic.com/content/nationalgeographic/en_us/rss/index.rss"
-        },
-        {
-            "name": "Nature News",
-            "url": "https://www.nature.com/nature.rss"
-        }
-    ],
-    "gaming": [
-        {
-            "name": "IGN",
-            "url": "https://www.ign.com/rss/articles/feed"
-        }
-    ],
     "news": [
         {
             "name": "Asianet News",
@@ -2151,6 +2135,406 @@
         {
             "name": "The Sartorialist",
             "url": "https://feeds.feedburner.com/TheSartorialist"
+        }
+    ],
+    "books": [
+        {
+            "name": "A year of reading the world",
+            "url": "https://ayearofreadingtheworld.com/feed/"
+        },
+        {
+            "name": "Aestas Book Blog",
+            "url": "https://aestasbookblog.com/feed/"
+        },
+        {
+            "name": "BOOK RIOT",
+            "url": "https://bookriot.com/feed/"
+        },
+        {
+            "name": "Kirkus Reviews",
+            "url": "https://www.kirkusreviews.com/feeds/rss/"
+        },
+        {
+            "name": "Page Array – NewInBooks",
+            "url": "https://www.newinbooks.com/feed/"
+        },
+        {
+            "name": "So many books, so little time",
+            "url": "https://reddit.com/r/books/.rss"
+        },
+        {
+            "name": "Wokeread",
+            "url": "https://wokeread.home.blog/feed/"
+        }
+    ],
+    "DIY": [
+        {
+            "name": "A Beautiful Mess",
+            "url": "https://abeautifulmess.com/feed"
+        },
+        {
+            "name": "Apartment Therapy| Saving the world, one room at a time",
+            "url": "https://www.apartmenttherapy.com/projects.rss"
+        },
+        {
+            "name": "Blog – Hackaday",
+            "url": "https://hackaday.com/blog/feed/"
+        },
+        {
+            "name": "Centsational Style",
+            "url": "https://centsationalstyle.com/feed/"
+        },
+        {
+            "name": "Doityourself.com",
+            "url": "https://www.doityourself.com/feed"
+        },
+        {
+            "name": "Etsy Journal",
+            "url": "https://blog.etsy.com/en/feed/"
+        },
+        {
+            "name": "How-To Geek",
+            "url": "https://www.howtogeek.com/feed/"
+        },
+        {
+            "name": "IKEA Hackers",
+            "url": "https://www.ikeahackers.net/feed"
+        },
+        {
+            "name": "MUO - Feed",
+            "url": "https://www.makeuseof.com/feed/"
+        },
+        {
+            "name": "Oh Happy Day!",
+            "url": "http://ohhappyday.com/feed/"
+        },
+        {
+            "name": "WonderHowTo",
+            "url": "https://www.wonderhowto.com/rss.xml"
+        }
+    ],
+    "Business & economy": [
+        {
+            "name": "All News",
+            "url": "https://www.investing.com/rss/news.rss"
+        },
+        {
+            "name": "Bloomberg Quicktake",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=Bloomberg"
+        },
+        {
+            "name": "Breaking News on Seeking Alpha",
+            "url": "https://seekingalpha.com/market_currents.xml"
+        },
+        {
+            "name": "Business Insider",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=businessinsider"
+        },
+        {
+            "name": "Duct Tape Marketing",
+            "url": "https://ducttape.libsyn.com/rss"
+        },
+        {
+            "name": "Economic Times",
+            "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms"
+        },
+        {
+            "name": "Forbes - Business",
+            "url": "https://www.forbes.com/business/feed/"
+        },
+        {
+            "name": "Fortune",
+            "url": "https://fortune.com/feed"
+        },
+        {
+            "name": "HBR IdeaCast",
+            "url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
+        },
+        {
+            "name": "Home Page",
+            "url": "https://www.business-standard.com/rss/home_page_top_stories.rss"
+        },
+        {
+            "name": "How I Built This with Guy Raz",
+            "url": "https://feeds.npr.org/510313/podcast.xml"
+        },
+        {
+            "name": "Startup Stories - Mixergy",
+            "url": "https://feeds.feedburner.com/Mixergy-main-podcast"
+        },
+        {
+            "name": "The Blog of Author Tim Ferriss",
+            "url": "https://tim.blog/feed/"
+        },
+        {
+            "name": "The Growth Show",
+            "url": "http://thegrowthshow.hubspot.libsynpro.com/"
+        },
+        {
+            "name": "US Top News and Analysis",
+            "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/news/rssindex"
+        }
+    ],
+    "fashion": [
+        {
+            "name": "Fashion - ELLE",
+            "url": "https://www.elle.com/rss/fashion.xml/"
+        },
+        {
+            "name": "Fashion | The Guardian",
+            "url": "https://www.theguardian.com/fashion/rss"
+        },
+        {
+            "name": "Fashion – Indian Fashion Blog",
+            "url": "https://www.fashionlady.in/category/fashion/feed"
+        },
+        {
+            "name": "FashionBeans Men's Fashion and Style Feed",
+            "url": "https://www.fashionbeans.com/rss-feed/?category=fashion"
+        },
+        {
+            "name": "Fashionista",
+            "url": "https://fashionista.com/.rss/excerpt/"
+        },
+        {
+            "name": "NYT > Style",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml"
+        },
+        {
+            "name": "POPSUGAR Fashion",
+            "url": "https://www.popsugar.com/fashion/feed"
+        },
+        {
+            "name": "Refinery29",
+            "url": "https://www.refinery29.com/fashion/rss.xml"
+        },
+        {
+            "name": "THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com",
+            "url": "https://www.yesstyle.com/blog/category/trend-and-style/feed/"
+        },
+        {
+            "name": "Who What Wear",
+            "url": "https://www.whowhatwear.com/rss"
+        }
+    ],
+    "funny": [
+        {
+            "name": "AwkwardFamilyPhotos.com",
+            "url": "https://awkwardfamilyphotos.com/feed/"
+        },
+        {
+            "name": "Cracked: All Posts",
+            "url": "http://feeds.feedburner.com/CrackedRSS"
+        },
+        {
+            "name": "Explosm.net",
+            "url": "http://feeds.feedburner.com/Explosm"
+        },
+        {
+            "name": "FAIL Blog",
+            "url": "http://feeds.feedburner.com/failblog"
+        },
+        {
+            "name": "I Can Has Cheezburger?",
+            "url": "http://feeds.feedburner.com/icanhascheezburger"
+        },
+        {
+            "name": "PHD Comics",
+            "url": "http://phdcomics.com/gradfeed.php"
+        },
+        {
+            "name": "Penny Arcade",
+            "url": "https://www.penny-arcade.com/feed"
+        },
+        {
+            "name": "PostSecret",
+            "url": "https://postsecret.com/feed/?alt=rss"
+        },
+        {
+            "name": "Saturday Morning Breakfast Cereal",
+            "url": "https://www.smbc-comics.com/comic/rss"
+        },
+        {
+            "name": "The Bloggess",
+            "url": "https://thebloggess.com/feed/"
+        },
+        {
+            "name": "The Daily WTF",
+            "url": "http://syndication.thedailywtf.com/TheDailyWtf"
+        },
+        {
+            "name": "The Oatmeal - Comics by Matthew Inman",
+            "url": "http://feeds.feedburner.com/oatmealfeed"
+        },
+        {
+            "name": "The Onion",
+            "url": "https://www.theonion.com/rss"
+        },
+        {
+            "name": "xkcd.com",
+            "url": "https://xkcd.com/rss.xml"
+        }
+    ],
+    "gaming": [
+        {
+            "name": "Escapist Magazine",
+            "url": "https://www.escapistmagazine.com/v2/feed/"
+        },
+        {
+            "name": "Eurogamer.net",
+            "url": "https://www.eurogamer.net/?format=rss"
+        },
+        {
+            "name": "Gamasutra News",
+            "url": "http://feeds.feedburner.com/GamasutraNews"
+        },
+        {
+            "name": "GameSpot - All Content",
+            "url": "https://www.gamespot.com/feeds/mashup/"
+        },
+        {
+            "name": "IGN All",
+            "url": "http://feeds.ign.com/ign/all"
+        },
+        {
+            "name": "Indie Games Plus",
+            "url": "https://indiegamesplus.com/feed"
+        },
+        {
+            "name": "Kotaku",
+            "url": "https://kotaku.com/rss"
+        },
+        {
+            "name": "Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup",
+            "url": "https://www.makeupandbeautyblog.com/feed/"
+        },
+        {
+            "name": "PlayStation.Blog",
+            "url": "http://feeds.feedburner.com/psblog"
+        },
+        {
+            "name": "Polygon -  All",
+            "url": "https://www.polygon.com/rss/index.xml"
+        },
+        {
+            "name": "Rock, Paper, Shotgun",
+            "url": "http://feeds.feedburner.com/RockPaperShotgun"
+        },
+        {
+            "name": "Steam RSS News Feed",
+            "url": "https://store.steampowered.com/feeds/news.xml"
+        },
+        {
+            "name": "The Ancient Gaming Noob",
+            "url": "http://feeds.feedburner.com/TheAncientGamingNoob"
+        },
+        {
+            "name": "TouchArcade - iPhone, iPad, Android Games Forum",
+            "url": "https://toucharcade.com/community/forums/-/index.rss"
+        },
+        {
+            "name": "Xbox's Major Nelson",
+            "url": "https://majornelson.com/feed/"
+        },
+        {
+            "name": "r/gaming",
+            "url": "https://www.reddit.com/r/gaming.rss"
+        }
+    ],
+    "history": [
+        {
+            "name": "30 For 30 Podcasts",
+            "url": "https://feeds.megaphone.fm/ESP5765452710"
+        },
+        {
+            "name": "Blog Feed",
+            "url": "https://americanhistory.si.edu/blog/feed"
+        },
+        {
+            "name": "Dan Carlin's Hardcore History",
+            "url": "https://feeds.feedburner.com/dancarlin/history?format=xml"
+        },
+        {
+            "name": "History in 28-minutes",
+            "url": "https://www.historyisnowmagazine.com/blog?format=RSS"
+        },
+        {
+            "name": "HistoryNet",
+            "url": "http://www.historynet.com/feed"
+        },
+        {
+            "name": "Lore",
+            "url": "https://feeds.megaphone.fm/lore"
+        },
+        {
+            "name": "Revisionist History",
+            "url": "https://feeds.megaphone.fm/revisionisthistory"
+        },
+        {
+            "name": "The History Reader",
+            "url": "https://www.thehistoryreader.com/feed/"
+        },
+        {
+            "name": "Throughline",
+            "url": "https://feeds.npr.org/510333/podcast.xml"
+        },
+        {
+            "name": "You Must Remember This",
+            "url": "https://feeds.megaphone.fm/YMRT7068253588"
+        },
+        {
+            "name": "the memory palace",
+            "url": "http://feeds.thememorypalace.us/thememorypalace"
+        }
+    ],
+    "World News": [
+        {
+            "name": "BBC News - World",
+            "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        {
+            "name": "CNN.com",
+            "url": "http://rss.cnn.com/rss/edition_world.rss"
+        },
+        {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html"
+        },
+        {
+            "name": "NDTV News - World-news",
+            "url": "http://feeds.feedburner.com/ndtvnews-world-news"
+        },
+        {
+            "name": "NYT",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+        },
+        {
+            "name": "Google News",
+            "url": "https://news.google.com/rss"
+        },
+        {
+            "name": "WashingtonPost",
+            "url": "http://feeds.washingtonpost.com/rss/world"
+        },
+        {
+            "name": "World News",
+            "url": "https://www.reddit.com/r/worldnews/.rss"
+        },
+        {
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"
+        },
+        {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/rss"
+        },
+        {
+            "name": "Yahoo News - Latest News & Headlines",
+            "url": "https://www.yahoo.com/news/rss"
         }
     ]
 }

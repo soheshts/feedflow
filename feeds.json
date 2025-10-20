@@ -1,110 +1,110 @@
 {
     "technology": [
-    {
-        "name": "Accidental Tech Podcast",
-        "url": "https://atp.fm/rss"
-    },
-    {
-        "name": "Analog(ue)",
-        "url": "https://www.relay.fm/analogue/feed"
-    },
-    {
-        "name": "Ars Technica",
-        "url": "http://feeds.arstechnica.com/arstechnica/index"
-    },
-    {
-        "name": "CNET",
-        "url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV"
-    },
-    {
-        "name": "CNET News",
-        "url": "https://www.cnet.com/rss/news/"
-    },
-    {
-        "name": "Clockwise",
-        "url": "https://www.relay.fm/clockwise/feed"
-    },
-    {
-        "name": "Gizmodo",
-        "url": "https://gizmodo.com/rss"
-    },
-    {
-        "name": "Hacker News",
-        "url": "https://news.ycombinator.com/rss"
-    },
-    {
-        "name": "Lifehacker",
-        "url": "https://lifehacker.com/rss"
-    },
-    {
-        "name": "Linus Tech Tips",
-        "url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips"
-    },
-    {
-        "name": "Marques Brownlee",
-        "url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee"
-    },
-    {
-        "name": "Mashable",
-        "url": "http://feeds.mashable.com/Mashable"
-    },
-    {
-        "name": "ReadWrite",
-        "url": "https://readwrite.com/feed/"
-    },
-    {
-        "name": "Reply All",
-        "url": "https://feeds.megaphone.fm/replyall"
-    },
-    {
-        "name": "Rocket",
-        "url": "https://www.relay.fm/rocket/feed"
-    },
-    {
-        "name": "Slashdot",
-        "url": "http://rss.slashdot.org/Slashdot/slashdotMain"
-    },
-    {
-        "name": "Stratechery by Ben Thompson",
-        "url": "http://stratechery.com/feed/"
-    },
-    {
-        "name": "TechCrunch",
-        "url": "http://feeds.feedburner.com/TechCrunch"
-    },
-    {
-        "name": "The Keyword",
-        "url": "https://www.blog.google/rss/"
-    },
-    {
-        "name": "The Next Web",
-        "url": "https://thenextweb.com/feed/"
-    },
-    {
-        "name": "The Verge",
-        "url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge"
-    },
-    {
-        "name": "The Verge -  All Posts",
-        "url": "https://www.theverge.com/rss/index.xml"
-    },
-    {
-        "name": "The Vergecast",
-        "url": "https://feeds.megaphone.fm/vergecast"
-    },
-    {
-        "name": "This Week in Tech (Audio)",
-        "url": "https://feeds.twit.tv/twit.xml"
-    },
-    {
-        "name": "Unbox Therapy",
-        "url": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy"
-    },
-    {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/rss.xml"
-    }
-],
+        {
+            "name": "Accidental Tech Podcast",
+            "url": "https://atp.fm/rss"
+        },
+        {
+            "name": "Analog(ue)",
+            "url": "https://www.relay.fm/analogue/feed"
+        },
+        {
+            "name": "Ars Technica",
+            "url": "http://feeds.arstechnica.com/arstechnica/index"
+        },
+        {
+            "name": "CNET",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV"
+        },
+        {
+            "name": "CNET News",
+            "url": "https://www.cnet.com/rss/news/"
+        },
+        {
+            "name": "Clockwise",
+            "url": "https://www.relay.fm/clockwise/feed"
+        },
+        {
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com/rss"
+        },
+        {
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com/rss"
+        },
+        {
+            "name": "Lifehacker",
+            "url": "https://lifehacker.com/rss"
+        },
+        {
+            "name": "Linus Tech Tips",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips"
+        },
+        {
+            "name": "Marques Brownlee",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee"
+        },
+        {
+            "name": "Mashable",
+            "url": "http://feeds.mashable.com/Mashable"
+        },
+        {
+            "name": "ReadWrite",
+            "url": "https://readwrite.com/feed/"
+        },
+        {
+            "name": "Reply All",
+            "url": "https://feeds.megaphone.fm/replyall"
+        },
+        {
+            "name": "Rocket",
+            "url": "https://www.relay.fm/rocket/feed"
+        },
+        {
+            "name": "Slashdot",
+            "url": "http://rss.slashdot.org/Slashdot/slashdotMain"
+        },
+        {
+            "name": "Stratechery by Ben Thompson",
+            "url": "http://stratechery.com/feed/"
+        },
+        {
+            "name": "TechCrunch",
+            "url": "http://feeds.feedburner.com/TechCrunch"
+        },
+        {
+            "name": "The Keyword",
+            "url": "https://www.blog.google/rss/"
+        },
+        {
+            "name": "The Next Web",
+            "url": "https://thenextweb.com/feed/"
+        },
+        {
+            "name": "The Verge",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge"
+        },
+        {
+            "name": "The Verge -  All Posts",
+            "url": "https://www.theverge.com/rss/index.xml"
+        },
+        {
+            "name": "The Vergecast",
+            "url": "https://feeds.megaphone.fm/vergecast"
+        },
+        {
+            "name": "This Week in Tech (Audio)",
+            "url": "https://feeds.twit.tv/twit.xml"
+        },
+        {
+            "name": "Unbox Therapy",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy"
+        },
+        {
+            "name": "Engadget",
+            "url": "https://www.engadget.com/rss.xml"
+        }
+    ],
     "entertainment": [
         {
             "name": "Variety",
@@ -121,6 +121,74 @@
         {
             "name": "Deadline",
             "url": "https://deadline.com/feed/"
+        },
+        {
+            "name": "/Film",
+            "url": "https://feeds2.feedburner.com/slashfilm"
+        },
+        {
+            "name": "Ain't It Cool News Feed",
+            "url": "https://www.aintitcool.com/node/feed/"
+        },
+        {
+            "name": "ComingSoon.net",
+            "url": "https://www.comingsoon.net/feed"
+        },
+        {
+            "name": "Film School Rejects",
+            "url": "https://filmschoolrejects.com/feed/"
+        },
+        {
+            "name": "FirstShowing.net",
+            "url": "https://www.firstshowing.net/feed/"
+        },
+        {
+            "name": "IndieWire",
+            "url": "https://www.indiewire.com/feed"
+        },
+        {
+            "name": "Movie News and Discussion",
+            "url": "https://reddit.com/r/movies/.rss"
+        },
+        {
+            "name": "Movies",
+            "url": "https://www.bleedingcool.com/movies/feed/"
+        },
+        {
+            "name": "The A.V. Club",
+            "url": "https://film.avclub.com/rss"
+        },
+        {
+            "name": "Billboard",
+            "url": "https://www.billboard.com/articles/rss.xml"
+        },
+        {
+            "name": "Consequence",
+            "url": "http://consequenceofsound.net/feed"
+        },
+        {
+            "name": "EDM.com - The Latest Electronic Dance Music News, Reviews & Artists",
+            "url": "https://edm.com/.rss/full/"
+        },
+        {
+            "name": "Metal Injection",
+            "url": "http://feeds.feedburner.com/metalinjection"
+        },
+        {
+            "name": "Music Business Worldwide",
+            "url": "https://www.musicbusinessworldwide.com/feed/"
+        },
+        {
+            "name": "RSS: News",
+            "url": "http://pitchfork.com/rss/news"
+        },
+        {
+            "name": "Song Exploder",
+            "url": "http://songexploder.net/feed"
+        },
+        {
+            "name": "Your EDM",
+            "url": "https://www.youredm.com/feed"
         }
     ],
     "science": [

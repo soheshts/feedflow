@@ -2050,5 +2050,31 @@
             "name": "SpaceX",
             "url": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel"
         }
+    ],
+    "sports": [
+        {
+            "name": "BBC Sport - Sport",
+            "url": "http://feeds.bbci.co.uk/sport/rss.xml"
+        },
+        {
+            "name": "Reddit Sports",
+            "url": "https://www.reddit.com/r/sports.rss"
+        },
+        {
+            "name": "Sports News - Latest Sports and Football News | Sky News",
+            "url": "http://feeds.skynews.com/feeds/rss/sports.xml"
+        },
+        {
+            "name": "Sportskeeda",
+            "url": "https://www.sportskeeda.com/feed"
+        },
+        {
+            "name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+            "url": "https://sports.yahoo.com/rss/"
+        },
+        {
+            "name": "www.espn.com - TOP",
+            "url": "https://www.espn.com/espn/rss/news"
+        }
     ]
 }

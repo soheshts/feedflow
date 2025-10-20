@@ -2102,5 +2102,55 @@
             "name": "Travel | The Guardian",
             "url": "https://www.theguardian.com/uk/travel/rss"
         }
+    ],
+    "photography": [
+        {
+            "name": "500px",
+            "url": "https://iso.500px.com/feed/"
+        },
+        {
+            "name": "500px:",
+            "url": "https://500px.com/editors.rss"
+        },
+        {
+            "name": "Big Picture",
+            "url": "https://www.bostonglobe.com/rss/bigpicture"
+        },
+        {
+            "name": "Canon Rumors – Your best source for Canon rumors, leaks and gossip",
+            "url": "https://www.canonrumors.com/feed/"
+        },
+        {
+            "name": "Digital Photography School",
+            "url": "https://feeds.feedburner.com/DigitalPhotographySchool"
+        },
+        {
+            "name": "Light Stalking",
+            "url": "https://www.lightstalking.com/feed/"
+        },
+        {
+            "name": "Lightroom Killer Tips",
+            "url": "https://lightroomkillertips.com/feed/"
+        },
+        {
+            "name": "One Big Photo",
+            "url": "http://feeds.feedburner.com/OneBigPhoto"
+        },
+        {
+            "name": "PetaPixel",
+            "url": "https://petapixel.com/feed/"
+        },
+        {
+            "name": "Strobist",
+            "url": "http://feeds.feedburner.com/blogspot/WOBq"
+        },
+        {
+            "name": "Stuck in Customs",
+            "url": "https://stuckincustoms.com/feed/"
+        },
+        {
+            "name": "The Sartorialist",
+            "url": "https://feeds.feedburner.com/TheSartorialist"
+        }
     ]
 }

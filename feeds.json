@@ -1,34 +1,110 @@
 {
     "technology": [
-        {
-            "name": "Wired",
-            "url": "https://www.wired.com/feed/rss"
-        },
-        {
-            "name": "TechCrunch",
-            "url": "https://feeds.feedburner.com/TechCrunch/"
-        },
-        {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/rss/index.xml"
-        },
-        {
-            "name": "Ars Technica",
-            "url": "https://feeds.arstechnica.com/arstechnica/index/"
-        },
-        {
-            "name": "Mashable",
-            "url": "http://feeds.mashable.com/Mashable"
-        },
-        {
-            "name": "Engadget",
-            "url": "https://www.engadget.com/rss.xml"
-        },
-        {
-            "name": "Gizmodo",
-            "url": "https://gizmodo.com/feed"
-        }
-    ],
+    {
+        "name": "Accidental Tech Podcast",
+        "url": "https://atp.fm/rss"
+    },
+    {
+        "name": "Analog(ue)",
+        "url": "https://www.relay.fm/analogue/feed"
+    },
+    {
+        "name": "Ars Technica",
+        "url": "http://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+        "name": "CNET",
+        "url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV"
+    },
+    {
+        "name": "CNET News",
+        "url": "https://www.cnet.com/rss/news/"
+    },
+    {
+        "name": "Clockwise",
+        "url": "https://www.relay.fm/clockwise/feed"
+    },
+    {
+        "name": "Gizmodo",
+        "url": "https://gizmodo.com/rss"
+    },
+    {
+        "name": "Hacker News",
+        "url": "https://news.ycombinator.com/rss"
+    },
+    {
+        "name": "Lifehacker",
+        "url": "https://lifehacker.com/rss"
+    },
+    {
+        "name": "Linus Tech Tips",
+        "url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips"
+    },
+    {
+        "name": "Marques Brownlee",
+        "url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee"
+    },
+    {
+        "name": "Mashable",
+        "url": "http://feeds.mashable.com/Mashable"
+    },
+    {
+        "name": "ReadWrite",
+        "url": "https://readwrite.com/feed/"
+    },
+    {
+        "name": "Reply All",
+        "url": "https://feeds.megaphone.fm/replyall"
+    },
+    {
+        "name": "Rocket",
+        "url": "https://www.relay.fm/rocket/feed"
+    },
+    {
+        "name": "Slashdot",
+        "url": "http://rss.slashdot.org/Slashdot/slashdotMain"
+    },
+    {
+        "name": "Stratechery by Ben Thompson",
+        "url": "http://stratechery.com/feed/"
+    },
+    {
+        "name": "TechCrunch",
+        "url": "http://feeds.feedburner.com/TechCrunch"
+    },
+    {
+        "name": "The Keyword",
+        "url": "https://www.blog.google/rss/"
+    },
+    {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/feed/"
+    },
+    {
+        "name": "The Verge",
+        "url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge"
+    },
+    {
+        "name": "The Verge -  All Posts",
+        "url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+        "name": "The Vergecast",
+        "url": "https://feeds.megaphone.fm/vergecast"
+    },
+    {
+        "name": "This Week in Tech (Audio)",
+        "url": "https://feeds.twit.tv/twit.xml"
+    },
+    {
+        "name": "Unbox Therapy",
+        "url": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy"
+    },
+    {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/rss.xml"
+    }
+],
     "entertainment": [
         {
             "name": "Variety",

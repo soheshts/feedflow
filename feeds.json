@@ -289,20 +289,6 @@
             "url": "http://www.twis.org/feed/"
         }
     ],
-    "news": [
-        {
-            "name": "Asianet News",
-            "url": "https://www.asianetnews.com/rss"
-        },
-        {
-            "name": "Mathrubhumi News",
-            "url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss"
-        },
-        {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/world/rss"
-        }
-    ],
     "personal blogs": [
         {
             "name": "All in the head",
@@ -2535,6 +2521,210 @@
         {
             "name": "Yahoo News - Latest News & Headlines",
             "url": "https://www.yahoo.com/news/rss"
+        }
+    ],
+    "India": [
+        {
+            "name": "BBC News - India",
+            "url": "http://feeds.bbci.co.uk/news/world/asia/india/rss.xml"
+        },
+        {
+            "name": "India | The Guardian",
+            "url": "https://www.theguardian.com/world/india/rss"
+        },
+        {
+            "name": "SEBI RSS Feed",
+            "url": "https://www.sebi.gov.in/sebirss.xml"
+        },
+        {
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
+        },
+        {
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com/feeder/default.rss"
+        },
+        {
+            "name": "NDTV News",
+            "url": "https://feeds.feedburner.com/ndtvnews-top-stories"
+        },
+        {
+            "name": "India Today",
+            "url": "https://www.indiatoday.in/rss/home"
+        },
+        {
+            "name": "The Indian Express",
+            "url": "http://indianexpress.com/print/front-page/feed/"
+        },
+        {
+            "name": "News18.com",
+            "url": "https://www.news18.com/rss/world.xml"
+        },
+        {
+            "name": "DNA India",
+            "url": "https://www.dnaindia.com/feeds/india.xml"
+        },
+        {
+            "name": "Firstpost India Latest News",
+            "url": "https://www.firstpost.com/rss/india.xml"
+        },
+        {
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com/rss/home_page_top_stories.rss"
+        },
+        {
+            "name": "Outlook India",
+            "url": "https://www.outlookindia.com/rss/main/magazine"
+        },
+        {
+            "name": "Free Press Journal",
+            "url": "https://www.freepressjournal.in/stories.rss"
+        },
+        {
+            "name": "Deccan Chronicle - Latest India news | Breaking news | Hyderabad News | World news | Business news | Politics | Technology news",
+            "url": "https://www.deccanchronicle.com/rss_feed/"
+        },
+        {
+            "name": "Moneycontrol Latest News",
+            "url": "http://www.moneycontrol.com/rss/latestnews.xml"
+        },
+        {
+            "name": "Economic Times",
+            "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms"
+        },
+        {
+            "name": "News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia",
+            "url": "https://www.oneindia.com/rss/news-fb.xml"
+        },
+        {
+            "name": "Scroll.in",
+            "url": "http://feeds.feedburner.com/ScrollinArticles.rss"
+        },
+        {
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com/feed/"
+        },
+        {
+            "name": "Business Line - Home",
+            "url": "https://www.thehindubusinessline.com/feeder/default.rss"
+        },
+        {
+            "name": "TechGenyz",
+            "url": "http://feeds.feedburner.com/techgenyz"
+        },
+        {
+            "name": "Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper",
+            "url": "https://www.gujaratsamachar.com/rss/top-stories"
+        },
+        {
+            "name": "Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Marathi News Paper | Maharashtra Times",
+            "url": "https://maharashtratimes.com/rssfeedsdefault.cms"
+        },
+        {
+            "name": "Loksattaदेश-विदेश &#8211; Loksatta",
+            "url": "https://www.loksatta.com/desh-videsh/feed/"
+        },
+        {
+            "name": "Latest News program News18 Lokmat",
+            "url": "https://lokmat.news18.com/rss/program.xml"
+        },
+        {
+            "name": "OpIndia",
+            "url": "https://feeds.feedburner.com/opindia"
+        },
+        {
+            "name": "ThePrint",
+            "url": "https://theprint.in/feed/"
+        },
+        {
+            "name": "Swarajya",
+            "url": "https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml"
+        },
+        {
+            "name": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
+            "url": "https://www.amarujala.com/rss/breaking-news.xml"
+        },
+        {
+            "name": "Navbharat Times",
+            "url": "https://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+        },
+        {
+            "name": "Patrika : India's Leading Hindi News Portal",
+            "url": "http://api.patrika.com/rss/india-news"
+        },
+        {
+            "name": "JansattaJansatta",
+            "url": "https://www.jansatta.com/feed/"
+        },
+        {
+            "name": "Live Hindustan Rss feed",
+            "url": "https://feed.livehindustan.com/rss/3127"
+        },
+        {
+            "name": "देश | दैनिक भास्कर",
+            "url": "https://www.bhaskar.com/rss-feed/1061/"
+        },
+        {
+            "name": "ઈન્ડિયા | દિવ્ય ભાસ્કર",
+            "url": "https://www.divyabhaskar.co.in/rss-feed/1037/"
+        }
+    ],
+    "Malayalam": [
+        {
+            "name": "Asianet News",
+            "url": "https://www.asianetnews.com/rss"
+        },
+        {
+            "name": "Mathrubhumi News",
+            "url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss"
+        },
+        {
+            "name": "News18",
+            "url": "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala.xml"
+        },
+        {
+            "name": "News18 - Movies",
+            "url": "https://malayalam.news18.com/commonfeeds/v1/mal/rss/film/movies.xml"
+        },
+        {
+            "name": "On Manorama",
+            "url": "https://www.onmanorama.com/kerala.feeds.onmrss.xml"
+        },
+        {
+            "name": "One India - News",
+            "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-news-fb.xml"
+        },
+        {
+            "name": "One India - Travel",
+            "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-travel-fb.xml"
+        },
+        {
+            "name": "Gizbot",
+            "url": "https://malayalam.gizbot.com/rss/feeds/gizbot-malayalam-fb.xml"
+        },
+        {
+            "name": "Filmibeat",
+            "url": "https://malayalam.filmibeat.com/rss/feeds/filmibeat-malayalam-fb.xml"
+        },
+        {
+            "name": "Filmibeat",
+            "url": "https://malayalam.filmibeat.com/rss/feeds/filmibeat-malayalam-fb.xml"
+        },
+        {
+            "name": "Filmibeat Bollywood",
+            "url": "https://malayalam.filmibeat.com/rss/feeds/malayalam-bollywood-fb.xml"
+        },
+        {
+            "name": "Ezhuthkuth",
+            "url": "https://www.ezhuthkuth.in/feed/"
+        },
+        {
+            "name": "HistoricAlleys",
+            "url": "https://historicalleys.blogspot.com/feeds/posts/default"
+        },
+        {
+            "name": "Alablog",
+            "url": "https://alablog.in/feed/"
         }
     ]
 }
